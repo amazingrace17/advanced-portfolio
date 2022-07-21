@@ -24,10 +24,10 @@ import PortfolioItem from "./components/PortfolioPage/PortfolioItem";
 import PageNotFound from "./components/PageNotFound/PageNotFound";
 
 const banners = [
-	"https://res.cloudinary.com/karso/image/upload/v1644513745/Portfolio/Project%20Banners/r5rhwugjfjmxtmbyz2gf.jpg",
-	"https://res.cloudinary.com/karso/image/upload/v1644513745/Portfolio/Project%20Banners/ypvwujh5iliiqjgeowpi.jpg",
-	"https://res.cloudinary.com/karso/image/upload/v1644513745/Portfolio/Project%20Banners/nng75czwnwnugatr6v9p.jpg",
-	"https://res.cloudinary.com/karso/image/upload/v1644513745/Portfolio/Project%20Banners/ukkbwgyqp6g7g98i1xqs.jpg",
+	"https://greenindie.s3.us-east-2.amazonaws.com/portfolioimages/062D580A-A616-43E9-A72D-51F4EA3B926E.jpeg",
+	"https://greenindie.s3.us-east-2.amazonaws.com/portfolioimages/A7211CEC-BAA9-4661-98D2-009C637D50CE_1_201_a.jpeg",
+	
+	
 ];
 
 const navLinks = [
@@ -117,8 +117,9 @@ const getNextBanner = () => {
 			<div className="app__overlay"></div>
 			<header className="app__header">
 				<Link to="/">
+					<h2>TA</h2>
 					<object
-						data={logo}
+						// data= "TA"
 						className="app__logo"
 						type="image/svg+xml"
 						aria-label="Tolulope Grace"
