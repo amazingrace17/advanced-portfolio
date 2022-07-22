@@ -117,9 +117,9 @@ const getNextBanner = () => {
 			<div className="app__overlay"></div>
 			<header className="app__header">
 				<Link to="/">
-					<h2>TA</h2>
+					
 					<object
-						// data= "TA"
+						data= {logo}
 						className="app__logo"
 						type="image/svg+xml"
 						aria-label="Tolulope Grace"

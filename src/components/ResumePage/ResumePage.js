@@ -12,6 +12,7 @@ import nodejs from "../../images/tech/nodejs.svg";
 import html5 from "../../images/tech/html5.svg";
 import css3 from "../../images/tech/css3.svg";
 import flask from "../../images/tech/flask.svg";
+import mongodb from "../../images/tech/mongodb.svg"
 
 const ResumePage = () => {
 	return (
@@ -109,18 +110,8 @@ const ResumePage = () => {
 									title="React JS"
 									className="tech__logo"
 								/>
-								<img
-									src={python}
-									alt="Python"
-									title="Python"
-									className="tech__logo"
-								/>
-								<img
-									src={flask}
-									alt="Flask"
-									title="Flask"
-									className="tech__logo"
-								/>
+							
+								
 								<img
 									src={nodejs}
 									alt="NodeJS"
@@ -128,6 +119,7 @@ const ResumePage = () => {
 									className="tech__logo"
 								/>
 								<img src={sql} alt="SQL" title="SQL" className="tech__logo" />
+								<img src={mongodb} alt="mongodb" title="mongodb" className="tech__logo" />
 								<img
 									src={html5}
 									alt="HTML5"

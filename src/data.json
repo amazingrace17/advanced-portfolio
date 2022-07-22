@@ -98,6 +98,14 @@
         "live_url": "https://abeg-app-clone.netlify.app/",
         "github_url": "https://github.com/amazingrace17/abeg-app-clone"
     },
+      "Lendie":{
+        "name": "Lendie",
+        "description": "Was inspired by the clone of Abeg App built by Olamide Solanke and decided to clone his clone 🌚. Check out <a href='https://no-dey-beg.netlify.app' target='_blank'>his clone</a>.",
+        "image_url": "https://res.cloudinary.com/karso/image/upload/v1624830633/Portfolio/Project%20Screenshots/zxw5lmye6kquwliloc3w.png",
+        "gif_url": "https://res.cloudinary.com/karso/image/upload/v1624831566/Portfolio/Project%20GIFs/qziv6b9uisal21nuhyxp.gif",
+        "live_url": "https://lendie.vercel.app/",
+        "github_url": "https://github.com/amazingrace17/MonIE"
+    },
     "pasteit":{
         "name": "PasteIt",
         "description": "PasteIt is an online clipboard which allows sharing of text over the internet by generating a unique URL. Others can access the contents of the paste via this URL. Built this because I got tired of opening Whatsapp each time I wanted to transfer text between my devices. This project makes use of ReactJS for the frontend, with Flask, PostgreSQL and SQLAlchemy for the backend.",
@@ -133,15 +141,7 @@
         "live_url": "https://task-ager.netlify.app",
         "github_url": "https://github.com/amazingrace17/task-ager"
     },
-    "portfolio-v2":{
-        "name": "Portfolio V2",
-        "description": "Decided to work on a second version of my personal website. You could say this doubles as some sort of digital resumé. Built with ReactJS. Don’t forget to reach out!",
-        "image_url": "https://res.cloudinary.com/karso/image/upload/v1624824213/Portfolio/Project%20Screenshots/wcva4dpewjnxgitda74u.png",
-        "device_image_url": "https://res.cloudinary.com/karso/image/upload/v1624824211/Portfolio/Project%20Screenshots/bjlc498c6udk51hhu7fz.png",
-        "gif_url": "",
-        "live_url": "https://amazingrace17onkwo.netlify.app.com",
-        "github_url": "https://github.com/amazingrace17/portfolio-v2"
-    },
+   
     "fyyur":{
         "name": "Fyyur",
         "description": "Fyyur is a musical venue and artist booking site that facilitates the discovery and bookings of shows between local performing artists and venues. This site lets you list new artists and venues, discover them, and list shows with artists as a venue owner. This project involved building out the data models to power the API endpoints for the Fyyur site by connecting to a PostgreSQL database for storing, querying, and creating information about artists and venues on Fyyur.",
@@ -158,14 +158,7 @@
         "live_url": "https://amazingrace17.github.io/classic-arcade-game",
         "github_url": "https://github.com/amazingrace17/Classic-Arcade-Game"
     },
-    "online-examination-system":{
-        "name": "Online Examination System",
-        "description": "Built this as my final year project for my Computer Engineering Bachelor’s Degree. In this project, I attempted to address some problems associated with paper-based examinations and also take into account some problems that could arise in a computer-based examination (such as power/network failure). <br /> <br /> The resulting system has the following features: <ul> <li> web-based software which can automatically and accurately grade examinations</li><li> compatible on any platform</li><li> distributes questions randomly to each student to reduce cheating</li><li> allows random selection of questions</li><li> incorporates accessibility considerations </li><li> is able to handle network or power failure by providing resumption capabilities.</li> </ul> <br /> Built using HTML, CSS, JavaScript, Bootstrap, PHP, MySQL. <br /> <br />",
-        "image_url": "https://res.cloudinary.com/karso/image/upload/v1624824208/Portfolio/Project%20Screenshots/jktqjkwvkfobkldxxkwa.png",
-        "gif_url": "https://github.com/amazingrace17/Computer-Based-Examination-Software/raw/master/assets/images/demo.gif",
-        "live_url": "http://cbe-test.atwebpages.com/views/login.php",
-        "github_url": "https://github.com/amazingrace17/Computer-Based-Examination-Software"
-    },
+ 
     "contact-keeper":{
         "name": "Contact Keeper",
         "description": "Full Stack application to manage contacts. Includes authentication functionality. Built using the MERN (MongoDB, Express, React, Node) stack.",
