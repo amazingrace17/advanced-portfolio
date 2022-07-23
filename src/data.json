@@ -65,14 +65,7 @@
         "live_url": "https://anoziestores.com",
         "github_url": null
     },
-    "whatsapp-web-clone":{
-        "name": "Whatsapp Web Clone",
-        "description": "Recreated the current Whatsapp Web's UI. Best part? It handles both dark or light mode depending on your device's settings. Implemented a simple backend service for communication with this clone using websocket technology as well.",
-        "image_url": "https://res.cloudinary.com/karso/image/upload/v1624874114/Portfolio/Project%20Screenshots/p8yvzprijsyuro2h9gtb.png",
-        "gif_url": "https://res.cloudinary.com/karso/image/upload/v1624868920/Portfolio/Project%20GIFs/tu5chddivl89nactrovw.gif",
-        "live_url": "https://whatsapp-clone-web.netlify.app/",
-        "github_url": "https://github.com/amazingrace17"
-    },
+
     "scribbles-blog":{
         "name": "Scribbles Blog",
         "description": "Scribbles is a full stack blog application built using Flask and React. It allows authors to manage blog posts while readers can read and comment on each blog post. The blog posts are also available to users that are not logged in, but they are limited to just reading - they can't comment. A lot of the posts in this blog contain gibberish, but its simple UI gives me a lot of joy.",
@@ -82,12 +75,12 @@
         "github_url": "https://github.com/amazingrace17/Scribbles-Blog"
     },
     "gff":{
-        "name": "Geraldine's Flourish Foods",
+        "name": "Maigadi",
         "description": "Geraldine’s Flourish Foods, a food processing and packaging company requested a website to boost their online presence, serve as a source of information about their products and the services they offer, as well as a platform for customers to purchase their products. These requirements led to my building a full-stack application for this company. The resulting website offers the customers convenience as they can access any information about GFF they need and make any purchases of their products at the comfort of their own homes.",
         "image_url": "https://res.cloudinary.com/karso/image/upload/v1624824209/Portfolio/Project%20Screenshots/j0fhpctaxekdx0cyvwzq.png",
         "device_image_url": "https://res.cloudinary.com/karso/image/upload/v1624824213/Portfolio/Project%20Screenshots/ddb4asyngfqywy3nepif.png",
         "gif_url": "",
-        "live_url": "https://geraldinesflourishfoods.com",
+        "live_url": "https://maigadiweb.netlify.app/",
         "github_url": ""
     },
     "abeg-app-clone":{
@@ -165,7 +158,7 @@
         "image_url": "https://res.cloudinary.com/karso/image/upload/v1624824208/Portfolio/Project%20Screenshots/jtqjj4qyqtbtqis3tpdj.png",
         "gif_url": "https://github.com/amazingrace17/Contact-Keeper/raw/master/demo.gif",
         "live_url": "http://contact-keeper-webapp.herokuapp.com/",
-        "github_url": "https://github.com/amazingrace17/Contact-Keeper"
+        "github_url": "https://github.com/amazingrace17/KeepSafe"
     },
     "github-finder":{
         "name": "Github Finder",
