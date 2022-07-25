@@ -10,12 +10,12 @@
             "degree": "Software Engineer",
             "school": "Stutern.",
             "timeline": {"from": "Feb 2021", "to": "Sept 2021"},
-            "summary": "This  course extensively taught various technical skills needed to build database-backed APIs and web applications including:\n\n\t• SQL and Data Modelling for the Web\n\t• API Development and Documentation\n\t• Identity and Access Management\n\t• Server Deployment, Containerization and Testing\n\t•, working with various frameworks"
+            "summary": "This  bootcamp extensively taught various technical skills needed to build database-backed APIs and web applications including:\n\n\t• SQL and Data Modelling for the Web\n\t• API Development and Documentation\n\t• Identity and Access Management\n\t• Server Deployment, Containerization and Testing\n\t•, working with various frameworks.Completed several projects encompassing the knowledge of:\n\n\t• HTML, CSS and JavaScript\n\t• Responsive Web Design\n\t• Object-Oriented Programming\n\t• Web Accessibility\n\t• Test-driven development\n\t• Working with APIs\n\t• Working with several frameworks (among others)\n"
         }, {
-            "degree": "Front-End Developer Nanodegree",
+            "degree": "Mobile Web Specialist",
             "school": "PluralSight",
             "timeline": {"from": "May 2018", "to": "Nov 2018"},
-            "summary": "This course taught comprehensively various technical skills important in frontend web development. Completed several projects encompassing the knowledge of:\n\n\t• HTML, CSS and JavaScript\n\t• Responsive Web Design\n\t• Object-Oriented Programming\n\t• Web Accessibility\n\t• Test-driven development\n\t• Working with APIs\n\t• Working with several frameworks (among others)\n"
+            "summary": "This course taught comprehensively various technical skills important in frontend web development and optimizationof website and various security measures using the OWASP"
         }, {
             "degree": "BSc. in Industrial Chemistry",
             "school": "University of Ilorin, Nigeria.",
@@ -28,7 +28,7 @@
             "location": "Abuja, Nigeria",
             "company": "Trigonal Technologies",
             "timeline": {"from": "August 2021", "to": "Present"},
-            "summary": "• Creating various tools that met clients need."
+            "summary": "• Creating various applications that meet clients need."
         }, 
         {
             "role": "Front-End Engineer",
@@ -45,18 +45,13 @@
         },  {
             "role": "Software Engineer Intern",
             "location": "Lagos, Nigeria",
-            "company": "GRIT Systems Engineering Ltd.",
+            "company": "Stutern",
             "timeline": {"from": "June 2018", "to": "Dec 2018"},
             "summary": "• Worked with the software team to build software to support the company's hardware products. \n• Designed, developed and maintained the front-end application for the company's project using ReactJS, TypeScript and Material UI. \n• Developed web services for user and order management using Flask."
-        },  {
-            "role": "Intern",
-            "location": "Lagos, Nigeria",
-            "company": "Eko Konnect Research and Education Initiative",
-            "timeline": {"from": "Aug 2018", "to": "Sept 2018"},
-            "summary": "• Worked primarily with Linux (UBUNTU) as an operating system, learning about and unlocking its benefits and applications in everyday development."
         }
     ],
-    "projects": {"anozie-stores":{
+    "projects": {
+        "anozie-stores":{
         "name": "Anozie Stores",
         "description": "For this project, Anozie Stores requested for a website to manage their orders and allow users track their order status. This resulted in my building a full-stack application for this online store. The completion of this project streamlined and removed ambiguities with their order placement process, which led to a significant improvement in the shopping experience of their customers.",
         "image_url": "https://res.cloudinary.com/karso/image/upload/v1624824208/Portfolio/Project%20Screenshots/lj2yamj3s7gjnkzfsfdt.png",
@@ -93,8 +88,8 @@
     },
       "Lendie":{
         "name": "Lendie",
-        "description": "Was inspired by the clone of Abeg App built by Olamide Solanke and decided to clone his clone 🌚. Check out <a href='https://no-dey-beg.netlify.app' target='_blank'>his clone</a>.",
-        "image_url": "https://res.cloudinary.com/karso/image/upload/v1624830633/Portfolio/Project%20Screenshots/zxw5lmye6kquwliloc3w.png",
+        "description": "Lendie is a loan application app for users with fixed interest rates dependent on the expected time of payment. Existing users get to build their credit score. It uses email authentication and verification.  You can test with existing user \nfloppa@gmail.com \n password: floppa123",
+        "image_url": "https://greenindie.s3.us-east-2.amazonaws.com/portfolioimages/Screenshot+2022-07-21+at+20.56.16.png",
         "gif_url": "https://res.cloudinary.com/karso/image/upload/v1624831566/Portfolio/Project%20GIFs/qziv6b9uisal21nuhyxp.gif",
         "live_url": "https://lendie.vercel.app/",
         "github_url": "https://github.com/amazingrace17/MonIE"
@@ -167,5 +162,6 @@
         "gif_url": "https://github.com/amazingrace17/Github-Finder/raw/master/demo.gif",
         "live_url": "https://find-users-github.netlify.app",
         "github_url": "https://github.com/amazingrace17/Github-Finder"
-    }}
+    }
+}
 }
