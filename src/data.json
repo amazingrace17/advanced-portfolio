@@ -27,15 +27,15 @@
             "role": "Software Engineer",
             "location": "Abuja, Nigeria",
             "company": "Trigonal Technologies",
-            "timeline": {"from": "August 2021", "to": "Present"},
-            "summary": "• Creating various applications that meet clients need."
+            "timeline": {"from": "September 2021", "to": "Present"},
+            "summary": "• Creating various applications that meet clients need ra."
         }, 
         {
             "role": "Front-End Engineer",
             "location": "Lagos, Nigeria",
             "company": "Blucolar Nigeria",
-            "timeline": {"from": "May 2020", "to": "July 2021"},
-            "summary": "• Worked with the Eyowo team to build out web interfaces that help users interact with the product - which provides financial services to anyone with a phone number. \n• Worked on front-end applications to drive NPower - a Nigerian Federal Government programme that addresses the problem of youth unemployment in the country. Worked alongside other disciplines including back-end, QA, design, and UI developers."
+            "timeline": {"from": "May 2020", "to": "February 2021"},
+            "summary": "• Worked with the team to build out web interfaces that help users interact with the product - which provides financial services to anyone with a phone number. \n• Worked on front-end applications to drive NPower - a Nigerian Federal Government programme that addresses the problem of youth unemployment in the country. Worked alongside other disciplines including back-end, QA, design, and UI developers."
         }, {
             "role": "Freelancer",
             "location": "Lagos, Nigeria",
@@ -46,11 +46,18 @@
             "role": "Software Engineer Intern",
             "location": "Lagos, Nigeria",
             "company": "Stutern",
-            "timeline": {"from": "June 2018", "to": "Dec 2018"},
+            "timeline": {"from": "February 2021", "to": "September 2021"},
             "summary": "• Worked with the software team to build software to support the company's hardware products. \n• Designed, developed and maintained the front-end application for the company's project using ReactJS, TypeScript and Material UI. \n• Developed web services for user and order management using Flask."
         }
     ],
     "projects": {
+         "Lendie":{
+        "name": "Lendie",
+        "description": "Lendie is a loan application app for users with fixed interest rates dependent on the expected time of payment. Existing users get to build their credit score. It uses email authentication and verification.  You can test with existing user \nfloppa@gmail.com \n password: floppa123",
+        "image_url": "https://greenindie.s3.us-east-2.amazonaws.com/portfolioimages/Screenshot+2022-07-21+at+20.56.16.png",
+        "live_url": "https://lendie.vercel.app/",
+        "github_url": "https://github.com/amazingrace17/MonIE"
+    },
         "anozie-stores":{
         "name": "Anozie Stores",
         "description": "For this project, Anozie Stores requested for a website to manage their orders and allow users track their order status. This resulted in my building a full-stack application for this online store. The completion of this project streamlined and removed ambiguities with their order placement process, which led to a significant improvement in the shopping experience of their customers.",
@@ -61,39 +68,17 @@
         "github_url": null
     },
 
-    "scribbles-blog":{
-        "name": "Scribbles Blog",
-        "description": "Scribbles is a full stack blog application built using Flask and React. It allows authors to manage blog posts while readers can read and comment on each blog post. The blog posts are also available to users that are not logged in, but they are limited to just reading - they can't comment. A lot of the posts in this blog contain gibberish, but its simple UI gives me a lot of joy.",
-        "image_url": "https://res.cloudinary.com/karso/image/upload/v1624824211/Portfolio/Project%20Screenshots/hfqtds5eqokmn0kzonzg.png",
-        "gif_url": "https://res.cloudinary.com/karso/image/upload/v1613348098/Portfolio/Project%20GIFs/scribbles_blog_yauonc.gif",
-        "live_url": "https://scribbles-blog.netlify.app",
-        "github_url": "https://github.com/amazingrace17/Scribbles-Blog"
-    },
-    "gff":{
+   
+    " maigadi":{
         "name": "Maigadi",
-        "description": "Geraldine’s Flourish Foods, a food processing and packaging company requested a website to boost their online presence, serve as a source of information about their products and the services they offer, as well as a platform for customers to purchase their products. These requirements led to my building a full-stack application for this company. The resulting website offers the customers convenience as they can access any information about GFF they need and make any purchases of their products at the comfort of their own homes.",
+        "description": "Maigadi is a security access control application used to control access in secured buildings. It is available on playstore and app store. This is the link to the website that shows more information about the app",
         "image_url": "https://res.cloudinary.com/karso/image/upload/v1624824209/Portfolio/Project%20Screenshots/j0fhpctaxekdx0cyvwzq.png",
         "device_image_url": "https://res.cloudinary.com/karso/image/upload/v1624824213/Portfolio/Project%20Screenshots/ddb4asyngfqywy3nepif.png",
         "gif_url": "",
         "live_url": "https://maigadiweb.netlify.app/",
         "github_url": ""
     },
-    "abeg-app-clone":{
-        "name": "Abeg App Clone",
-        "description": "Was inspired by the clone of Abeg App built by Olamide Solanke and decided to clone his clone 🌚. Check out <a href='https://no-dey-beg.netlify.app' target='_blank'>his clone</a>.",
-        "image_url": "https://res.cloudinary.com/karso/image/upload/v1624830633/Portfolio/Project%20Screenshots/zxw5lmye6kquwliloc3w.png",
-        "gif_url": "https://res.cloudinary.com/karso/image/upload/v1624831566/Portfolio/Project%20GIFs/qziv6b9uisal21nuhyxp.gif",
-        "live_url": "https://abeg-app-clone.netlify.app/",
-        "github_url": "https://github.com/amazingrace17/abeg-app-clone"
-    },
-      "Lendie":{
-        "name": "Lendie",
-        "description": "Lendie is a loan application app for users with fixed interest rates dependent on the expected time of payment. Existing users get to build their credit score. It uses email authentication and verification.  You can test with existing user \nfloppa@gmail.com \n password: floppa123",
-        "image_url": "https://greenindie.s3.us-east-2.amazonaws.com/portfolioimages/Screenshot+2022-07-21+at+20.56.16.png",
-        "gif_url": "https://res.cloudinary.com/karso/image/upload/v1624831566/Portfolio/Project%20GIFs/qziv6b9uisal21nuhyxp.gif",
-        "live_url": "https://lendie.vercel.app/",
-        "github_url": "https://github.com/amazingrace17/MonIE"
-    },
+     
     "pasteit":{
         "name": "PasteIt",
         "description": "PasteIt is an online clipboard which allows sharing of text over the internet by generating a unique URL. Others can access the contents of the paste via this URL. Built this because I got tired of opening Whatsapp each time I wanted to transfer text between my devices. This project makes use of ReactJS for the frontend, with Flask, PostgreSQL and SQLAlchemy for the backend.",
@@ -161,7 +146,7 @@
         "image_url": "https://res.cloudinary.com/karso/image/upload/v1624824210/Portfolio/Project%20Screenshots/lkdutjkll9xouz8pfnqr.png",
         "gif_url": "https://github.com/amazingrace17/Github-Finder/raw/master/demo.gif",
         "live_url": "https://find-users-github.netlify.app",
-        "github_url": "https://github.com/amazingrace17/Github-Finder"
+        "github_url": "https://github.com/amazingrace17/GitHubStore"
     }
 }
 }
