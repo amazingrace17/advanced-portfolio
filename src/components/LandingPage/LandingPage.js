@@ -40,7 +40,7 @@ const LandingPage = () => {
 			<div className="landing-page__content">
 				<Fade bottom>
 					<section className="landing-page__intro">
-						<h1 className="landing-page__name"> Tolulope Grace Arinola </h1>
+						<h1 className="landing-page__name"> Tolulope Odu</h1>
 
 						<Typewriter
 							options={{

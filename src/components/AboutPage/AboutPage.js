@@ -51,12 +51,12 @@ const AboutPage = () => {
 									<li className="about-page__list-item">
 										Currently making magic at{" "}
 										<a
-											href="https://www.trigonallimited.com"
+											href="https://www.vitract.com"
 											target="_blank"
 											className="about-page__link"
 										>
 											{" "}
-											Trigonal
+											Vitract
 										</a>
 									</li>
 								</ul>

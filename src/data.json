@@ -22,7 +22,13 @@
             "timeline": {"from": "Oct 2014", "to": "Oct 2018"}
         }
     ], 
-    "work":[
+    "work":[ {
+        "role": "Software Engineer",
+        "location": "Delaware, United states",
+        "company": "Trigonal Technologies",
+        "timeline": {"from": "September 2021", "to": "Present"},
+        "summary": "• Creating various applications that meet clients need ra."
+    }, 
         {
             "role": "Software Engineer",
             "location": "Abuja, Nigeria",
